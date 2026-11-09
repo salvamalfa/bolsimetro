@@ -13,13 +13,13 @@
   "reconstruccion": {
     "mensual": {
       "error_maximo": 0.001,
-      "periodos": 26
+      "periodos": 27
     },
     "quincenal": {
       "error_maximo": 0.001,
-      "periodos": 53
+      "periodos": 54
     }
   },
-  "ultimo_mensual": "2026-09",
-  "ultimo_quincenal": "2026-10-1Q"
+  "ultimo_mensual": "2026-10",
+  "ultimo_quincenal": "2026-10-2Q"
 }
