@@ -17,9 +17,9 @@
     },
     "quincenal": {
       "error_maximo": 0.001,
-      "periodos": 54
+      "periodos": 55
     }
   },
   "ultimo_mensual": "2026-10",
-  "ultimo_quincenal": "2026-10-2Q"
+  "ultimo_quincenal": "2026-11-1Q"
 }
